@@ -1,0 +1,30 @@
+{
+    "login": {
+        "name": "Jurema da Silva",
+        "email": "jurema@gmail.com",
+        "password": "pwd123"
+    },
+    "inv_pass": {
+        "email": "thahunni@gmail.com",
+        "password": "pwd1234"
+    },
+    "email_404": {
+        "email": "404@gmail.com",
+        "password": "pwd1234"
+    },
+    "create":{
+        "name": "Thamara Cavalcanti",
+        "email": "thamara@gmail.com",
+        "password": "pwd123"
+    },
+    "dup_email":{
+        "name": "James Gunn",
+        "email": "james@hotmail.com",
+        "password": "pwd123"
+    },
+    "required":{
+        "name": "Margot Robbie",
+        "email": "margot@gmail.com",
+        "password": "pwd123"
+    }
+}

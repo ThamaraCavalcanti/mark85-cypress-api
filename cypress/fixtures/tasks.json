@@ -1,0 +1,17 @@
+{
+    "create": {
+        "user": {
+            "name": "James Gunn",
+            "email": "james@hotmail.com",
+            "password": "pwd123"
+        },
+        "tasks": {
+            "name": "Pagar a fatura do meu cartão",
+            "tags": [
+                "nubank",
+                "ourocard",
+                "smiles"
+            ]
+        }
+    }
+}
